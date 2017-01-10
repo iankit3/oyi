@@ -1,0 +1,1 @@
+{"version":3,"file":"Taxi.js","sourceRoot":"","sources":["../../app/models/Taxi.ts"],"names":[],"mappings":";AAAA;IACE,cACS,IAAY,EACZ,KAAa,EACb,aAAqB,EACrB,eAAuB,EACvB,YAAoB;QAJpB,SAAI,GAAJ,IAAI,CAAQ;QACZ,UAAK,GAAL,KAAK,CAAQ;QACb,kBAAa,GAAb,aAAa,CAAQ;QACrB,oBAAe,GAAf,eAAe,CAAQ;QACvB,iBAAY,GAAZ,YAAY,CAAQ;IACxB,CAAC;IACR,WAAC;AAAD,CAAC,AARD,IAQC;AARY,oBAAI"}
